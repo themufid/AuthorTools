@@ -16,7 +16,7 @@ Author Tools is a terminal-based application for generating pantun, puisi, blog 
 1. Clone this repository:
 
     ```bash
-    git clone <REPOSITORY_URL>
+    git clone https://github.com/themufid/AuthorTools.git
     cd AuthorTools
     ```
 
